@@ -77,6 +77,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 
 ## 💻 Installation and Usage
 - Microsoft Excel
+- Power BI
 
 
 ## 📈 Dashboard
