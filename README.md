@@ -80,4 +80,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 
 
 ## 📈 Dashboard
-<img src="https://github.com/amanat-mahmud/sales_dashboard/blob/main/dashboard_ss.png">
+<img src=https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/CUSTOMER%20SATISFACTION%20DASHBOARD.png>
+<img src=https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/orders%20dashboard.png>
+<img src=https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/Finance%20dashboard.png>
+
