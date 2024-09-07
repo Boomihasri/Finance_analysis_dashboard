@@ -35,8 +35,7 @@ The primary objective of this analysis is to provide actionable insights into ou
 - **Data size:** Orders Table (5009,22), Returns Table (296,2)
 - **Key columns:** Order Id, Ship Mode, Segment, City, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit
 - **Calculated columns:** Profit Margin, Average Order Value, Order Completion Rate, Actual Sales, Actual Profit, Amount Lost, Order Complete, Profit on No Discount, Sales on No Discount
-- [**Data set Link**](https://github.com/amanat-mahmud/sales_analysis/blob/main/dataset_superstore.xls)
-- [**Data Model**](https://github.com/amanat-mahmud/sales_analysis/blob/main/data%20model.png)
+- [**Data set Link**](https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/Finance%20Excel%20Dashboard.xlsx)
 
 ## 🔎 Key Findings
 - Total sales: $4.5M
@@ -61,13 +60,6 @@ The primary objective of this analysis is to provide actionable insights into ou
 5. Investigate and address causes of high return rates to minimize associated losses.
 6. Maintain success of non-discounted products while adjusting strategies for other items.
 7. Enhance performance of other shipping modes to balance reliance on Standard class.
-
-## 📌 Project Presentation
-### Video Presentation
-[![Sales Performance Analysis Presentation](https://github.com/amanat-mahmud/Sales_Performance_Analysis/blob/main/cover.png)](https://www.linkedin.com/posts/amanat-mahmud_github-amanat-mahmudsalesperformanceanalysis-activity-7222586475123556353-zmPY?utm_source=share&utm_medium=member_desktop)
-
-### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Sales_Performance_Analysis/blob/main/presentation.pdf)
 
 ## 🧠 Project Learnings
 1. Data Loading and Transformations.
